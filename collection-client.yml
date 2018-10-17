@@ -1,4 +1,5 @@
 ---
+wordConfig:
   preamble: Environment
   env: Dev
   luckyword: Testing
