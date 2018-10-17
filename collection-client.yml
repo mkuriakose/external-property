@@ -1,0 +1,8 @@
+---
+  preamble: Environment
+  env: Dev
+  luckyword: Testing
+  datasource: ProdDs
+  environment: prod
+  userdId: Admin
+  password: newUser
