@@ -4,6 +4,6 @@ wordConfig:
   env: Dev
   luckyWord: Testing
   dataSource: ProdDs
-  environment: prod
+  environment: Prod
   userId: Admin
   password: newUser
